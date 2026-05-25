@@ -335,9 +335,9 @@ MatchmakingScorer     →  Multi-factor farmer-buyer ranking (AgriConnect)
 
 | Project | LOC | Tables | APIs | Tests | Deployment |
 |---------|:---:|:------:|:----:|:-----:|:----------:|
-| 🏥 SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Railway Live |
+| 🏥 SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Docker Ready  |
 | 🏙️ CivicFix+ | 6,200+ | 8 | 20+ | 30+ | ✅ Docker Ready |
-| 🌾 AgriConnect | 7,800+ | 18+ | 35+ | 60+ | ✅ Docker Ready |
+| 🌾 AgriConnect | 7,800+ | 18+ | 35+ | 60+ | ✅ Render Live |
 | **Total** | **22,500+** | **38** | **80+** | **140+** | |
 
 </div>
