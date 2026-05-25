@@ -1,325 +1,322 @@
-# Hi, I'm Pruthvi Raj Panduga 👋
+<div align="center">
 
-### Java Full Stack Developer | Spring Boot | Backend Engineering | Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pruthvi%20Raj%20Panduga&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=94a3b8" />
 
-I build scalable backend systems, enterprise web applications, and AI-powered solutions using Java, Spring Boot, MySQL, Docker, and modern software architecture.
+</div>
 
-**Currently exploring:** System Design, Microservices, Kafka, Distributed Systems, Vector Databases & LLM Applications
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+Docker;22%2C500%2B+Lines+of+Production+Code;AI+%2B+Backend+%3D+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 📋 Quick Links
-
-| Platform | Link |
-| --- | --- |
-| **LinkedIn** | [Connect with me](https://linkedin.com/in/your-linkedin) |
-| **LeetCode** | [150+ DSA Problems](https://leetcode.com/u/pruthvi22_6/) |
-| **GitHub** | [Explore my repositories](https://github.com/Pruthvi226) |
-| **Email** | [Get in touch](mailto:yourmail@gmail.com) |
+</div>
 
 ---
 
-## 🏆 For Recruiters & Interviewers
+<div align="center">
 
-**Start Here:** Review [SmartClinic](https://github.com/Pruthvi226/SmartClinic_Management_System) (8,500+ LOC, production-ready hospital management system)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panduga-pruthvi-raj-711b7232a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226)
+[![LeetCode](https://img.shields.io/badge/LeetCode_150%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pruthvi22_6/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvirajpanduga22@gmail.com)
 
-### What You'll See:
-- **Enterprise Architecture**: Layered MVC (Controllers → Services → DAOs → Entities)
-- **Real Business Logic**: Smart slot allocation, billing automation, prescription workflows
-- **Production-Ready Code**: Transaction management, role-based security, Docker deployment
-- **Database Design**: 12+ tables with relationships, stored procedures, audit logging
-- **Testing**: JUnit 5 + Mockito covering business-critical rules
-
-### Code Highlights:
-- 📁 **DAO Layer:** `src/main/java/com/smartclinic/dao/` - Hibernate repository patterns
-- 📁 **Service Layer:** `src/main/java/com/smartclinic/service/` - Transactional workflows
-- 🔧 **Complex Algorithm:** `SlotAllocator.java` - Priority-based appointment scheduling
-- 🏗️ **Architecture:** `src/main/java/com/smartclinic/config/` - Spring configuration
-- 🗄️ **DB Design:** `src/main/resources/schema.sql` - Relational modeling
-- 🐳 **DevOps:** `Dockerfile` + `docker-compose.yml` - Production deployment
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-### Languages & Frameworks
+```java
+public class PruthviRaj {
 
-| Category | Technologies |
-| --- | --- |
-| **Backend** | Java 17/21, Spring Boot, Spring MVC, Spring Security, Hibernate ORM |
-| **Frontend** | JSP, Thymeleaf, React, HTML5, CSS3, Bootstrap, JavaScript |
-| **Database** | MySQL 8.0+, PostgreSQL, Redis, H2 (testing), FAISS (vector DB) |
-| **DevOps & Tools** | Docker, Docker Compose, Maven, Git, Render, Railway |
-| **APIs & Integration** | REST, JWT, Jackson, Swagger, OpenAI, Gemini API |
-| **Testing** | JUnit 5, Mockito, Spring Test, AssertJ, Testcontainers |
+    String[]  currentlyLearning = {"System Design", "Microservices", "Kafka", "Vector DBs", "LLM Apps"};
+    String[]  expertise         = {"Spring Boot", "Hibernate ORM", "MySQL", "Docker", "REST APIs"};
+    String[]  askMeAbout        = {"Backend Architecture", "Java Internals", "DSA", "AI Integration"};
+    String    funFact            = "I build hospital systems, civic platforms & agri-marketplaces — all in Java ☕";
+    int       leetcodeProblems  = 150;
+    int       totalLOC          = 22_500;
 
-### Skills Breakdown
-
-**Backend Specialization:**
-- Spring MVC, Spring Boot, Spring Security, Spring Transaction Management
-- Hibernate ORM, JPA, Database relationships & indexing
-- REST API design, JWT authentication, role-based access control (RBAC)
-- MySQL schema design, transaction boundaries, SQL optimization
-
-**Advanced Features:**
-- AI/ML: Semantic search, vector embeddings, complaint classification
-- Real-time: Queue management, notification systems, event scheduling
-- Payment: Invoice generation, tax calculation, discount/refund workflows
-- Search: Duplicate detection (Haversine formula), predictive scoring, Criteria API queries
+}
+```
 
 ---
 
-## 🏥 Featured Projects
+## 🛠️ Tech Stack
 
-### 1️⃣ SmartClinic - Hospital Management System
-**[Repository](https://github.com/Pruthvi226/SmartClinic_Management_System) • [Live Demo](https://smartclinicmanagementsystem-production.up.railway.app)**
+<div align="center">
 
-![SmartClinic Dashboard](https://raw.githubusercontent.com/Pruthvi226/SmartClinic_Management_System/main/screenshots/admin-dashboard.png)
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java_17/21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-#### What It Does
-Full-stack hospital operations platform handling appointments, consultations, pharmacy, inventory, billing, and multi-role workflows. Not just CRUD—includes smart business logic for slot allocation, billing automation, and prescription dispensing.
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-00599C?style=for-the-badge&logo=meta&logoColor=white)
 
-#### Key Features
-- ✅ **Smart Appointment Scheduling**: Priority-based slot allocation respecting doctor availability
-- ✅ **Role-Based Workflows**: Admin, Doctor, Receptionist, Pharmacist dashboards
-- ✅ **Complete Billing Pipeline**: Auto-generated invoices, tax calculation, payment tracking
-- ✅ **Pharmacy Management**: Inventory tracking, low-stock alerts, expiry monitoring
-- ✅ **Audit Trail**: Comprehensive logging for compliance and troubleshooting
-- ✅ **REST APIs**: JSON endpoints for patients, doctors, appointments, prescriptions
+### 🎨 Frontend
+![JSP](https://img.shields.io/badge/JSP/JSTL-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Technical Highlights
-| Aspect | Detail |
-| --- | --- |
-| **LOC** | 8,500+ |
-| **Database Tables** | 12 |
-| **API Endpoints** | 25+ |
-| **Test Coverage** | 75%+ |
-| **Architecture** | Layered MVC with Spring Security & Hibernate |
-| **Deployment** | Docker Compose, Tomcat 9, Railway |
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-#### Tech Stack
-Java 17 • Spring MVC 5.3 • Hibernate 5.6 • MySQL 8.0 • JSP/JSTL • Spring Security • Docker • Maven
+### 🤖 AI & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
+### 🧪 Testing
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C13B?style=for-the-badge&logo=java&logoColor=white)
 
-### 2️⃣ CivicFix+ - Smart Civic Issue Resolution Platform
-**[Repository](https://github.com/Pruthvi226/CivicFix)**
-
-![CivicFix Command Center](https://raw.githubusercontent.com/Pruthvi226/CivicFix/main/screenshots/official-command-center.png)
-
-#### What It Does
-Role-based municipal complaint management where citizens report civic issues, officials assign workers, field teams resolve problems, and the public tracks progress transparently. Includes AI complaint classification and duplicate detection.
-
-#### Key Features
-- ✅ **AI Complaint Classification**: NLP-based category and severity inference
-- ✅ **Duplicate Detection**: Haversine formula to find nearby complaints within 100m
-- ✅ **Civic Rewards**: Karma points for reporting, verified by officials
-- ✅ **Predictive Maintenance**: ML-based maintenance advisories for risky zones
-- ✅ **Transparent Dashboard**: Public analytics and ward health leaderboards
-- ✅ **Secure Reporting**: Anonymous whistleblower mode with AES encryption
-- ✅ **Multi-Role Workflows**: Citizen, Worker, Official, Admin dashboards
-
-#### Technical Highlights
-| Aspect | Detail |
-| --- | --- |
-| **Smart Features** | Complaint classification, duplicate radar, predictive scoring |
-| **Database** | MySQL 8.0 with Haversine spatial queries |
-| **Geolocation** | Leaflet.js maps for worker task assignment |
-| **File Handling** | Multipart uploads with path traversal protection |
-| **Audit Trail** | Karma transaction ledger + servlet performance filters |
-
-#### Tech Stack
-Java 21 • Spring MVC 5.3 • Hibernate 5.6 • MySQL 8.0 • JSP • Chart.js • Leaflet.js • Docker
+</div>
 
 ---
 
-### 3️⃣ AgriConnect - Agricultural Marketplace Platform
-**[Repository](https://github.com/Pruthvi226/Agriconnect)**
+## 🚀 Featured Projects
 
-![AgriConnect Marketplace](https://raw.githubusercontent.com/Pruthvi226/Agriconnect/main/screenshots/marketplace.png)
+### 🏥 SmartClinic — Hospital Management System
 
-#### What It Does
-Production marketplace connecting farmers and buyers with smart matching, MSP compliance, FPO management, and agricultural advisories. Real business logic for bidding workflows, order fulfillment, and farmer scoring.
+> **Start here if you're a recruiter.** This is my flagship project — production-ready, enterprise-architected, and 8,500+ lines deep.
 
-#### Key Features
-- ✅ **Smart Marketplace**: Crop listings with MSP compliance verification
-- ✅ **Bidding System**: Buyer placement, farmer acceptance/rejection, counter-offers
-- ✅ **Farmer Scoring**: Performance-based reputation using Haversine distance & delivery history
-- ✅ **Matchmaking**: Intelligent buyer-farmer recommendations based on proximity & crop overlap
-- ✅ **FPO Management**: Farmer Producer Organization groups for collective bargaining
-- ✅ **Advisory System**: Crop/weather/disease/pest advisories with bulk notifications
-- ✅ **Financial Tracking**: Wallet transactions, commission tracking, earned revenue
+[![SmartClinic](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pruthvi226/SmartClinic_Management_System)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0B0D0E?style=for-the-badge&logo=railway)](https://smartclinicmanagementsystem-production.up.railway.app)
 
-#### Technical Highlights
-| Aspect | Detail |
-| --- | --- |
-| **Complex Algorithms** | Matchmaking scoring, farmer performance ranking |
-| **API Security** | JWT authentication for REST endpoints |
-| **Database** | 18+ tables with complex relationships & indexes |
-| **Geospatial** | Haversine distance for nearby-buyer suggestions |
-| **Scheduling** | Async advisory notifications, score recomputation jobs |
+<img src="https://raw.githubusercontent.com/Pruthvi226/SmartClinic_Management_System/main/screenshots/admin-dashboard.png" width="100%" />
 
-#### Tech Stack
-Java 17 • Spring Framework 6.1 • Spring Security 6.2 • Hibernate ORM 6.4 • MySQL 8.3 • JSP • Docker
+| Metric | Value |
+|--------|-------|
+| 📦 Lines of Code | 8,500+ |
+| 🗄️ Database Tables | 12 |
+| 🔗 API Endpoints | 25+ |
+| 🧪 Test Coverage | 75%+ |
+| 🏗️ Architecture | Layered MVC + Spring Security + Hibernate |
+| 🚀 Deployment | Docker Compose · Tomcat 9 · Railway |
+
+**What makes it stand out:**
+- 🔁 **Smart Slot Allocation** — `SlotAllocator.java` handles priority-based appointment scheduling respecting doctor leave and availability
+- 👥 **4-Role Workflows** — Admin, Doctor, Receptionist & Pharmacist each with distinct dashboards
+- 🧾 **Billing Automation** — Auto-generated invoices with tax calculation, payment tracking & discounts
+- 💊 **Pharmacy Pipeline** — Inventory tracking, low-stock alerts, expiry monitoring, prescription dispensing
+- 🔒 **Security** — BCrypt, CSRF protection, RBAC, parameterized queries, audit trail
+
+`Java 17` `Spring MVC 5.3` `Hibernate 5.6` `MySQL 8.0` `JSP/JSTL` `Spring Security` `Docker` `Maven`
+
+---
+
+### 🏙️ CivicFix+ — Smart Civic Issue Resolution Platform
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pruthvi226/CivicFix)
+
+<img src="https://raw.githubusercontent.com/Pruthvi226/CivicFix/main/screenshots/official-command-center.png" width="100%" />
+
+| Metric | Value |
+|--------|-------|
+| 📦 Lines of Code | 6,200+ |
+| 🗄️ Database Tables | 8 |
+| 🔗 API Endpoints | 20+ |
+| 🧪 Unit Tests | 30+ |
+
+**What makes it stand out:**
+- 🤖 **AI Complaint Classification** — NLP-based category and severity inference on citizen reports
+- 📍 **Duplicate Radar** — Haversine formula detects nearby duplicate complaints within 100m radius
+- 🏆 **Civic Karma System** — Reward points for verified citizen reporting with ledger tracking
+- 🔮 **Predictive Maintenance** — ML-based maintenance advisories for high-risk zones
+- 🕵️ **Whistleblower Mode** — Anonymous reporting with AES encryption
+- 🗺️ **Geolocation** — Leaflet.js maps for worker task assignment
+
+`Java 21` `Spring MVC 5.3` `Hibernate 5.6` `MySQL 8.0` `JSP` `Chart.js` `Leaflet.js` `Docker`
+
+---
+
+### 🌾 AgriConnect — Agricultural Marketplace Platform
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pruthvi226/Agriconnect)
+
+<img src="https://raw.githubusercontent.com/Pruthvi226/Agriconnect/main/screenshots/marketplace.png" width="100%" />
+
+| Metric | Value |
+|--------|-------|
+| 📦 Lines of Code | 7,800+ |
+| 🗄️ Database Tables | 18+ |
+| 🔗 API Endpoints | 35+ |
+| 🧪 Unit Tests | 60+ |
+
+**What makes it stand out:**
+- 🤝 **Smart Matchmaking** — Buyer-farmer recommendations by proximity & crop overlap using scoring algorithms
+- 💰 **Bidding Workflows** — Placement, acceptance, rejection, counter-offers with MSP compliance
+- 📊 **Farmer Scoring Engine** — Performance-based reputation using delivery history + Haversine distance
+- 🏘️ **FPO Management** — Farmer Producer Organization collective bargaining groups
+- 📢 **Async Notifications** — Crop/weather/disease advisories with bulk delivery
+- 💳 **Financial Tracking** — Wallet, commission tracking, revenue reporting
+
+`Java 17` `Spring Framework 6.1` `Spring Security 6.2` `Hibernate ORM 6.4` `MySQL 8.3` `JWT` `Docker`
 
 ---
 
 ## 📊 Other Notable Projects
 
-| Project | What It Is | Stack | Link |
-| --- | --- | --- | --- |
-| **EventSphere** | College event management with QR attendance & certificates | Java • Spring Boot • Thymeleaf • MySQL | [Repo](https://github.com/Pruthvi226) |
-| **Smart Expense Manager** | Personal finance app with budgeting & insights | Java • Spring Boot • MySQL • Swagger • Docker | [Repo](https://github.com/Pruthvi226/Smart_Expense_Manager) |
-| **AI Research Assistant** | PDF analysis with semantic search & vector embeddings | Python • Flask • React • FAISS • Transformers | [Repo](https://github.com/Pruthvi226/AI_Research_Assistant) |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| 🎓 **EventSphere** | College event management — QR attendance & certificate generation | Spring Boot · Thymeleaf · MySQL | [Repo](https://github.com/Pruthvi226) |
+| 💰 **Smart Expense Manager** | Personal finance with budgeting, insights & Swagger docs | Spring Boot · MySQL · Swagger · Docker | [Repo](https://github.com/Pruthvi226/Smart_Expense_Manager) |
+| 🧠 **AI Research Assistant** | PDF semantic search using vector embeddings & RAG pipeline | Python · Flask · React · FAISS · Transformers | [Repo](https://github.com/Pruthvi226/AI_Research_Assistant) |
 
 ---
 
-## 🧠 Problem Solving & Algorithms
+## 📈 Project Metrics at a Glance
 
-**150+ DSA Problems Solved on LeetCode**
-
-### Strong Areas
-- ✅ Arrays & Strings (sliding window, two-pointer techniques)
-- ✅ Binary Search & Sorting
-- ✅ Linked Lists & Trees (traversal, reconstruction)
-- ✅ Graphs (BFS, DFS, shortest path, topological sort)
-- ✅ Dynamic Programming (knapsack, subsequences, path counting)
-- ✅ Greedy Algorithms
-- ✅ Backtracking (permutations, combinations, N-Queens)
-- ✅ Hash Maps & Heaps
-
-### Applied Algorithms in Projects
-- **Slot Allocation Algorithm**: Respecting doctor availability, leave dates, and patient priority (SmartClinic)
-- **Haversine Distance Formula**: Duplicate detection & farmer-buyer geospatial matching (CivicFix, AgriConnect)
-- **NLP Classification**: Keyword-based complaint categorization (CivicFix)
-- **Scoring & Ranking**: Farmer performance and matchmaking recommendation engines (AgriConnect)
-
-🔗 [View LeetCode Profile](https://leetcode.com/u/pruthvi22_6/)
-
----
-
-## 💡 Architecture & Design Principles
-
-### Layered MVC Architecture
-```
-Browser / REST Client
-    ↓
-Spring MVC DispatcherServlet
-    ↓
-Controllers (Request handling & routing)
-    ↓
-Service Layer (Business logic & transactions)
-    ↓
-DAO Layer (Hibernate data access)
-    ↓
-MySQL Database
-```
-
-### Design Patterns Used
-- **DAO Pattern**: `GenericDaoImpl` base classes with entity-specific implementations
-- **Service Layer Pattern**: Transactional business logic isolated from controllers
-- **Repository Pattern**: Reusable query methods for complex searches
-- **Strategy Pattern**: Slot allocation algorithms with priority variants
-- **Observer Pattern**: Notification systems for events (orders, advisories)
-- **Decorator Pattern**: Optional prescription draft saving before finalization
-
-### Security Features
-- ✅ Spring Security with role-based access control (ADMIN, DOCTOR, USER, EXPERT)
-- ✅ BCrypt password hashing (never plaintext)
-- ✅ CSRF protection on all state-changing operations
-- ✅ JWT authentication for stateless REST APIs
-- ✅ Session-based authentication for web applications
-- ✅ Path traversal protection for file uploads
-- ✅ SQL injection prevention through parameterized queries & Hibernate
-
----
-
-## 🐳 DevOps & Deployment
-
-### Containerization
-- Multi-stage Docker builds (Maven compile → Tomcat runtime)
-- Docker Compose for local full-stack development (app + MySQL + Adminer)
-- Health checks and readiness probes
-- Automatic schema bootstrap from SQL files
-
-### Deployment Targets
-- **Railway**: Production hosting for SmartClinic
-- **Render**: Deployment-ready blueprints
-- **Docker Hub**: Publishable container images
-- **Local**: Maven Jetty/Cargo for development
-
-### Key DevOps Files
-| File | Purpose |
-| --- | --- |
-| `Dockerfile` | Multi-stage Maven build + Tomcat 9 runtime |
-| `docker-compose.yml` | Full stack: app, MySQL, Adminer, health checks |
-| `render.yaml` | Render platform deployment config |
-| `.env.example` | Environment variable template |
-| `schema.sql` | Database initialization with seed data |
-
----
-
-## 📈 Project Metrics
+<div align="center">
 
 | Project | LOC | Tables | APIs | Tests | Status |
-| --- | --- | --- | --- | --- |
-| SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Active |
-| CivicFix+ | 6,200+ | 8 | 20+ | 30+ | ✅ Complete |
-| AgriConnect | 7,800+ | 18 | 35+ | 60+ | ✅ Complete |
-| **Total** | **22,500+** | **38** | **80+** | **140+** | ✅ Production-Ready |
+|---------|-----|--------|------|-------|--------|
+| 🏥 SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Active |
+| 🏙️ CivicFix+ | 6,200+ | 8 | 20+ | 30+ | ✅ Complete |
+| 🌾 AgriConnect | 7,800+ | 18 | 35+ | 60+ | ✅ Complete |
+| **🔢 Total** | **22,500+** | **38** | **80+** | **140+** | ✅ Production-Ready |
+
+</div>
 
 ---
 
-## 🎯 Current Learning & Exploration
+## 🧠 DSA & Problem Solving
 
-- 📚 **System Design**: Database sharding, caching strategies, load balancing
-- 📚 **Microservices**: Spring Cloud, service discovery, API gateway patterns
-- 📚 **Message Queues**: Kafka for event-driven architectures
-- 📚 **Distributed Systems**: Consensus algorithms, distributed tracing
-- 📚 **Vector Databases**: FAISS, Pinecone, LLM embeddings
-- 📚 **AI/LLM**: RAG systems, prompt engineering, fine-tuning
+<div align="center">
 
----
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=pruthvi22_6&theme=dark)](https://leetcode.com/u/pruthvi22_6/)
 
-## 🤝 Connect & Collaborate
+</div>
 
-I'm always interested in:
-- Backend engineering challenges
-- Open-source contributions
-- System design discussions
-- AI/ML integration projects
+**150+ Problems Solved across LeetCode & Codeforces · Codeforces Max Rating: 1118 · Strong in:**
 
-<p align="center">
+| Category | Topics |
+|----------|--------|
+| 📐 **Patterns** | Sliding Window · Two Pointer · Fast & Slow Pointers |
+| 🌳 **Trees & Graphs** | BFS · DFS · Topological Sort · Shortest Path |
+| 🧮 **DP** | Knapsack · Subsequences · Path Counting |
+| 🔍 **Search & Sort** | Binary Search · Merge Sort · Quick Select |
+| 🔁 **Recursion** | Backtracking · Permutations · N-Queens |
 
-<a href="https://github.com/Pruthvi226">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+**Algorithms shipped in production:**
+- **Slot Allocation** → Priority-based scheduling with doctor availability constraints *(SmartClinic)*
+- **Haversine Formula** → Geospatial duplicate detection & farmer-buyer matching *(CivicFix + AgriConnect)*
+- **NLP Classification** → Keyword-based complaint categorization *(CivicFix)*
+- **Scoring Engine** → Multi-factor farmer performance ranking *(AgriConnect)*
 
 ---
 
-## 🎓 Key Takeaways
+## 🏗️ Architecture Philosophy
 
-This portfolio demonstrates:
+```
+Browser / REST Client
+        │
+        ▼
+ DispatcherServlet         ← Request routing
+        │
+        ▼
+   Controllers             ← HTTP handling, validation
+        │
+        ▼
+  Service Layer            ← Business logic + @Transactional
+        │
+        ▼
+   DAO / Repository        ← Hibernate data access
+        │
+        ▼
+  MySQL / PostgreSQL        ← Relational persistence
+```
 
-✅ **Enterprise Architecture** - Layered MVC with clear separation of concerns  
-✅ **Real Business Logic** - Not toy CRUD apps; slot allocation, billing, marketplace matching  
-✅ **Production-Ready** - Docker deployment, security, audit logging, transactions  
-✅ **Database Expertise** - Complex schemas, relationships, indexing, query optimization  
-✅ **Problem Solving** - Algorithm implementation, duplicate detection, scoring systems  
-✅ **Testing & Quality** - JUnit 5, Mockito, meaningful test coverage  
-✅ **DevOps Awareness** - Docker, Docker Compose, CI/CD ready  
-✅ **Full-Stack Skills** - Backend + frontend, REST + MVC paradigms  
+**Design Patterns applied:** DAO · Service Layer · Repository · Strategy · Observer · Decorator
+
+**Security hardening:** BCrypt hashing · CSRF protection · RBAC · JWT (stateless) · AES encryption · Path traversal protection · Parameterized queries
 
 ---
 
-### 💬 "Building software that solves real-world problems through scalable engineering and clean architecture" 🚀
+## 🐳 DevOps Snapshot
+
+```dockerfile
+# Multi-stage production Docker build
+FROM maven:3.9-eclipse-temurin-17 AS build
+WORKDIR /app
+COPY . .
+RUN mvn clean package -DskipTests
+
+FROM tomcat:9.0-jdk17
+COPY --from=build /app/target/*.war webapps/ROOT.war
+# Health checks, readiness probes, auto schema bootstrap ✓
+```
+
+| File | Purpose |
+|------|---------|
+| `Dockerfile` | Multi-stage Maven → Tomcat 9 runtime |
+| `docker-compose.yml` | App + MySQL + Adminer + health checks |
+| `render.yaml` | Render platform deployment config |
+| `schema.sql` | DB init with seed data |
+| `.env.example` | Environment variable template |
+
+---
+
+## 📚 Currently Exploring
+
+<div align="center">
+
+```
+System Design           Database sharding · Caching · Load balancing
+Microservices           Spring Cloud · Service discovery · API Gateway
+Kafka / Event-Driven    Producers · Consumers · Stream processing
+Distributed Systems     Consensus algorithms · Distributed tracing
+Vector Databases        FAISS · Pinecone · LLM embeddings
+AI / LLM Apps           RAG · Prompt engineering · Fine-tuning
+```
+
+</div>
+
+---
+
+## 📊 By the Numbers
+
+<div align="center">
+
+| 🏗️ Production Projects | 📦 Total Lines of Code | 🔗 API Endpoints Built | 🧪 Unit Tests Written |
+|:-:|:-:|:-:|:-:|
+| **8 Full-Stack Apps** | **22,500+** | **80+** | **140+** |
+
+| 🗄️ Database Tables Designed | 🧩 DSA Problems Solved | 🐳 Dockerized Deployments | ☕ Years with Java |
+|:-:|:-:|:-:|:-:|
+| **38** | **150+ across LeetCode & Codeforces** | **5 Projects** | **2+** |
+
+</div>
+
+<div align="center">
+
+### 🏆 Achievements
+
+![Java](https://img.shields.io/badge/Java_Champion-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Production Ready](https://img.shields.io/badge/Production_Ready_Code-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces_Max_1118-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![150+ Problems](https://img.shields.io/badge/150%2B_Problems_Solved-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Deployed-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Ecosystem-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI_Powered_Apps-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+
+**_"Building software that solves real-world problems through scalable engineering and clean architecture"_** 🚀
+
+</div>
