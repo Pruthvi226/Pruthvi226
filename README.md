@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pruthvi%20Raj%20Panduga&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Learner&descAlignY=58&descSize=15&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pruthvi%20Raj%20Panduga&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Backend+Systems+%E2%98%95;Spring+Boot+%7C+Hibernate+%7C+MySQL+%7C+Docker;22%2C500%2B+Lines+of+Real+Business+Logic;AI+Integration+%7C+REST+APIs+%7C+Clean+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Backend+Systems+%E2%9A%A1;REST+APIs+%2B+Databases+%2B+DevOps+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Microservices+%F0%9F%9A%80)](https://github.com/Pruthvi226)
 
 </div>
 
@@ -142,9 +142,7 @@ public class PruthviRajPanduga {
 [![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
-<img src="https://raw.githubusercontent.com/Pruthvi226/SmartClinic_Management_System/main/screenshots/admin-dashboard.png" width="100%" />
-
-**Problem Solved:** Managing hospital operations — appointments, pharmacy, billing, patient records — is fragmented and error-prone without a unified system. SmartClinic centralizes all workflows under one roof.
+**Problem Solved:** Managing hospital operations — appointments, pharmacy, billing, patient records — is fragmented and error-prone without a unified system. SmartClinic centralizes all workflows with role-based access, automation, and audit trails.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -189,9 +187,7 @@ MySQL 8.0 — 12 tables, stored procedures, audit logs
 [![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 
-<img src="https://raw.githubusercontent.com/Pruthvi226/CivicFix/main/screenshots/official-command-center.png" width="100%" />
-
-**Problem Solved:** Civic complaints are usually submitted into a black hole — no tracking, no accountability, no resolution SLAs. CivicFix builds transparent, AI-assisted municipal workflows from citizen to worker to official.
+**Problem Solved:** Civic complaints are usually submitted into a black hole — no tracking, no accountability, no resolution SLAs. CivicFix builds transparent, AI-assisted municipal workflows for fair complaint resolution and proactive maintenance.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -238,9 +234,7 @@ MySQL 8.0 — spatial indexes, karma ledger, audit trail
 [![Spring](https://img.shields.io/badge/Spring_6.1-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)]()
 
-<img src="https://raw.githubusercontent.com/Pruthvi226/Agriconnect/main/screenshots/marketplace.png" width="100%" />
-
-**Problem Solved:** Small farmers lack fair market access, are undercut on price, and have no visibility into buyers. AgriConnect creates a transparent, intelligent marketplace with MSP compliance, smart matching, and collective FPO bargaining.
+**Problem Solved:** Small farmers lack fair market access, are undercut on price, and have no visibility into buyers. AgriConnect creates a transparent, intelligent marketplace with MSP compliance, smart matching, and financial ledgers.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -278,13 +272,136 @@ MySQL 8.3 — 18+ tables, geospatial indexes, wallet ledger
 
 ---
 
-## 📦 Other Projects
+### 🎓 EventSphere — College Event Management Platform
 
-| Project | What It Solves | Stack | Link |
-|---------|----------------|-------|------|
-| 🎓 **EventSphere** | College event management — QR attendance & auto-certificates | Spring Boot · Thymeleaf · MySQL | [Repo](https://github.com/Pruthvi226) |
-| 💰 **Smart Expense Manager** | Personal finance tracker with budgets, insights & Swagger docs | Spring Boot · MySQL · Swagger · Docker | [Repo](https://github.com/Pruthvi226/Smart_Expense_Manager) |
-| 🧠 **AI Research Assistant** | PDF semantic search via vector embeddings & RAG pipeline | Python · Flask · React · FAISS · Transformers | [Repo](https://github.com/Pruthvi226/AI_Research_Assistant) |
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226/EventSphere)
+[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+
+**Problem Solved:** College event management is scattered across emails and spreadsheets. EventSphere centralizes event lifecycle with QR-based attendance tracking, automatic certificate generation, and real-time participant dashboards.
+
+<details>
+<summary><b>📋 Key Features & Architecture</b></summary>
+
+**Features:**
+- 📋 **Event Planning Dashboard** — Create events, set attendee quotas, track registrations in real-time
+- 🎫 **QR Attendance System** — Dynamic QR codes for each event with secure check-in validation
+- 📜 **Auto-Certificate Generation** — PDF certificates created on-the-fly post-event with participant names & dates
+- 📊 **Analytics Dashboard** — Event statistics, attendance rates, participation trends
+- 💬 **Notification Engine** — Email alerts for registrations, reminders, and certificate delivery
+- 🔐 **Role-Based Access** — Admin (event creation), Organizer (management), Participant (self-service)
+
+**Architecture:**
+```
+Web Browser (Admin / Organizer / Participant)
+    ↓
+Spring Boot DispatcherServlet
+    ↓
+REST Controllers / MVC Controllers
+    ↓
+Service Layer (Event mgmt, QR validator, Certificate generator)
+    ↓
+Repository Layer (Hibernate ORM + Criteria API)
+    ↓
+MySQL 8.0 — Event tables, Attendance logs, Certificate tracking
+```
+
+</details>
+
+| 📦 LOC | 🗄️ DB Tables | 🔗 APIs | 🧪 Coverage | 🎯 Features | 🚀 Deploy |
+|:------:|:------------:|:-------:|:-----------:|:-----------:|:---------:|
+| 3,500+ | 6 | 15+ | 60%+ | QR + Certs | Docker Ready |
+
+`Java 17` `Spring Boot 2.7` `Thymeleaf` `MySQL 8.0` `iText (PDF)` `QR Code` `Maven`
+
+---
+
+### 💰 Smart Expense Manager — Personal Finance Tracker
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226/Smart_Expense_Manager)
+[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
+[![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)]()
+
+**Problem Solved:** Personal finance tracking is scattered across apps and spreadsheets. Smart Expense Manager provides a unified, RESTful platform for budgeting, expense categorization, spending insights, and financial health tracking.
+
+<details>
+<summary><b>📋 Key Features & Architecture</b></summary>
+
+**Features:**
+- 💸 **Multi-Category Expense Tracking** — Food, transport, utilities, entertainment with date & notes
+- 📊 **Budget Management** — Set monthly budgets per category, get alerts when approaching limits
+- 📈 **Spending Insights** — Month-over-month comparison, category trends, savings rate calculation
+- 🔍 **Advanced Filtering** — Filter by date range, category, amount, or search keywords
+- 📉 **Financial Reports** — PDF/CSV exports for personal records and tax planning
+- 🛡️ **Secure REST API** — JWT auth, role-based access, Swagger docs for integration
+
+**Architecture:**
+```
+Web Frontend / Mobile App
+    ↓
+Spring Boot REST Controllers (@RestController)
+    ↓
+Service Layer (Expense logic, Budget validation, Analytics)
+    ↓
+Repository / DAO (JPA + Hibernate)
+    ↓
+MySQL 8.0 — User accounts, Expenses, Budgets, Categories
+```
+
+</details>
+
+| 📦 LOC | 🗄️ DB Tables | 🔗 APIs | 🧪 Tests | 📊 Analytics | 🔐 Auth |
+|:------:|:------------:|:-------:|:--------:|:----------:|:-------:|
+| 2,800+ | 5 | 12+ | 50%+ | Trends · Reports | JWT |
+
+`Java 17` `Spring Boot 2.7` `Spring Data JPA` `MySQL 8.0` `Swagger UI` `Docker` `Maven`
+
+---
+
+### 🧠 AI Research Assistant — Semantic PDF Search Engine
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226/AI_Research_Assistant)
+[![Python](https://img.shields.io/badge/Python_3.10-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
+
+**Problem Solved:** Searching through research papers and PDFs is tedious with Ctrl+F. AI Research Assistant uses semantic embeddings and vector search to understand meaning beyond keywords, enabling natural language queries over document collections.
+
+<details>
+<summary><b>📋 Key Features & Architecture</b></summary>
+
+**Features:**
+- 🔍 **Semantic Search** — Query by meaning using FAISS vector database + sentence transformers
+- 📄 **PDF Processing** — Extract text, chunk documents, generate embeddings automatically
+- 🤖 **RAG Pipeline** — Retrieve relevant chunks, pass to LLM for contextual summaries
+- 💬 **Conversation Mode** — Multi-turn Q&A over documents with conversation history
+- 📊 **Search Analytics** — Track popular queries, document access patterns
+- 🎨 **Modern UI** — React-based frontend with real-time search results
+
+**Architecture:**
+```
+React Frontend
+    ↓
+Flask REST API (Python)
+    ↓
+Document Processing (PyPDF2, LangChain)
+    ↓
+Embedding Generation (Sentence Transformers)
+    ↓
+Vector DB (FAISS) ← Search queries
+    ↓
+LLM Integration (OpenAI / Gemini)
+```
+
+</details>
+
+| 📦 LOC | 🗄️ Storage | 🔗 APIs | 🧪 Coverage | 🤖 ML Models | 📦 Deploy |
+|:------:|:----------:|:-------:|:-----------:|:----------:|:---------:|
+| 2,200+ | FAISS | 8+ | 40%+ | Transformers | Docker Ready |
+
+`Python 3.10` `Flask` `React` `FAISS` `LangChain` `Sentence Transformers` `Docker`
 
 ---
 
@@ -335,10 +452,13 @@ MatchmakingScorer     →  Multi-factor farmer-buyer ranking (AgriConnect)
 
 | Project | LOC | Tables | APIs | Tests | Deployment |
 |---------|:---:|:------:|:----:|:-----:|:----------:|
-| 🏥 SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Docker Ready  |
+| 🏥 SmartClinic | 8,500+ | 12 | 25+ | 50+ | ✅ Railway Live  |
 | 🏙️ CivicFix+ | 6,200+ | 8 | 20+ | 30+ | ✅ Docker Ready |
 | 🌾 AgriConnect | 7,800+ | 18+ | 35+ | 60+ | ✅ Render Live |
-| **Total** | **22,500+** | **38** | **80+** | **140+** | |
+| 🎓 EventSphere | 3,500+ | 6 | 15+ | 25+ | ✅ Docker Ready |
+| 💰 Smart Expense Manager | 2,800+ | 5 | 12+ | 20+ | ✅ Docker Ready |
+| 🧠 AI Research Assistant | 2,200+ | - | 8+ | 15+ | ✅ Docker Ready |
+| **Total** | **31,000+** | **49+** | **115+** | **200+** | |
 
 </div>
 
@@ -351,7 +471,7 @@ MatchmakingScorer     →  Multi-factor farmer-buyer ranking (AgriConnect)
 | 🎖️ Achievement | 📌 Detail |
 |:---------------|:---------|
 | 🏥 **Flagship App Live** | SmartClinic deployed on Railway — real URL, real traffic |
-| 📦 **22,500+ LOC Written** | Across 3 fully deployed full-stack Java applications |
+| 📦 **31,000+ LOC Written** | Across 6 fully deployed full-stack Java applications |
 | 🧩 **150+ DSA Problems** | Solved across LeetCode and Codeforces combined |
 | ⚡ **Codeforces Rating 1118** | Reached Pupil rank through competitive programming |
 | 🐳 **Docker Expert** | Multi-stage builds, Compose stacks, health checks in production |
@@ -464,8 +584,8 @@ LLM / RAG Apps       Prompt engineering · Fine-tuning · RAG systems
 I'm actively seeking **Software Engineering Internships** and **Java Developer roles**.
 Open to backend challenges, open-source contributions, and system design discussions.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panduga-pruthvi-raj-711b7232a/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvirajpanduga22@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226)
 
 </div>
