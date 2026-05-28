@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pruthvi%20Raj%20Panduga&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pruthvi%20Raj%20Panduga&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineering&descAlignY=55&descAlign=62" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Backend+Systems+%E2%9A%A1;REST+APIs+%2B+Databases+%2B+DevOps+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Microservices+%F0%9F%9A%80)](https://github.com/Pruthvi226)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Backend+Systems+%E2%9A%A1;System+Design+%26+Scalable+Architecture+%F0%9F%8F%97;Full+Stack+Java+Developer+with+AI+Integration+%F0%9F%A4%96)](https://github.com/Pruthvi226)
 
 </div>
 
@@ -142,7 +142,7 @@ public class PruthviRajPanduga {
 [![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
-**Problem Solved:** Managing hospital operations — appointments, pharmacy, billing, patient records — is fragmented and error-prone without a unified system. SmartClinic centralizes all workflows with role-based access, automation, and audit trails.
+**Problem Solved:** Managing hospital operations — appointments, pharmacy, billing, patient records — is fragmented and error-prone without a unified system. SmartClinic centralizes all workflows across four roles (Admin, Doctor, Receptionist, Pharmacist) with intelligent slot allocation, automated billing, and enterprise-grade security.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -187,7 +187,7 @@ MySQL 8.0 — 12 tables, stored procedures, audit logs
 [![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 
-**Problem Solved:** Civic complaints are usually submitted into a black hole — no tracking, no accountability, no resolution SLAs. CivicFix builds transparent, AI-assisted municipal workflows for fair complaint resolution and proactive maintenance.
+**Problem Solved:** Civic complaints are usually submitted into a black hole — no tracking, no accountability, no resolution SLAs. CivicFix builds transparent, AI-assisted municipal workflows for complaint resolution with intelligent classification, duplicate detection, and performance incentives.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -234,7 +234,7 @@ MySQL 8.0 — spatial indexes, karma ledger, audit trail
 [![Spring](https://img.shields.io/badge/Spring_6.1-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)]()
 
-**Problem Solved:** Small farmers lack fair market access, are undercut on price, and have no visibility into buyers. AgriConnect creates a transparent, intelligent marketplace with MSP compliance, smart matching, and financial ledgers.
+**Problem Solved:** Small farmers lack fair market access, are undercut on price, and have no visibility into buyers. AgriConnect creates a transparent, intelligent marketplace with MSP compliance, smart matching, and financial ledger tracking.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -279,7 +279,7 @@ MySQL 8.3 — 18+ tables, geospatial indexes, wallet ledger
 [![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 
-**Problem Solved:** College event management is scattered across emails and spreadsheets. EventSphere centralizes event lifecycle with QR-based attendance tracking, automatic certificate generation, and real-time participant dashboards.
+**Problem Solved:** College event management is scattered across emails and spreadsheets. EventSphere centralizes event lifecycle with QR-based attendance tracking, automatic certificate generation, and real-time analytics.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -324,7 +324,7 @@ MySQL 8.0 — Event tables, Attendance logs, Certificate tracking
 [![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
 [![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)]()
 
-**Problem Solved:** Personal finance tracking is scattered across apps and spreadsheets. Smart Expense Manager provides a unified, RESTful platform for budgeting, expense categorization, spending insights, and financial health tracking.
+**Problem Solved:** Personal finance tracking is scattered across apps and spreadsheets. Smart Expense Manager provides a unified, RESTful platform for budgeting, expense categorization, spending analysis, and financial reporting.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
@@ -360,48 +360,49 @@ MySQL 8.0 — User accounts, Expenses, Budgets, Categories
 
 ---
 
-### 🧠 AI Research Assistant — Semantic PDF Search Engine
+### 🎯 CareerCompass — Intelligent Career Guidance & Skill Mapping Platform
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226/AI_Research_Assistant)
-[![Python](https://img.shields.io/badge/Python_3.10-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pruthvi226/CareerCompass)
+[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
 
-**Problem Solved:** Searching through research papers and PDFs is tedious with Ctrl+F. AI Research Assistant uses semantic embeddings and vector search to understand meaning beyond keywords, enabling natural language queries over document collections.
+**Problem Solved:** Students and professionals struggle to identify suitable career paths and lack personalized guidance for skill development. CareerCompass uses intelligent profiling, skill assessments, and AI-driven recommendations to bridge the gap between individual capabilities and market demands.
 
 <details>
 <summary><b>📋 Key Features & Architecture</b></summary>
 
 **Features:**
-- 🔍 **Semantic Search** — Query by meaning using FAISS vector database + sentence transformers
-- 📄 **PDF Processing** — Extract text, chunk documents, generate embeddings automatically
-- 🤖 **RAG Pipeline** — Retrieve relevant chunks, pass to LLM for contextual summaries
-- 💬 **Conversation Mode** — Multi-turn Q&A over documents with conversation history
-- 📊 **Search Analytics** — Track popular queries, document access patterns
-- 🎨 **Modern UI** — React-based frontend with real-time search results
+- 🧠 **Skill Assessment Engine** — Comprehensive aptitude & competency evaluation with adaptive questioning
+- 🎓 **Career Path Recommendations** — AI-powered suggestions based on skills, interests, and market demand
+- 📊 **Skill Gap Analysis** — Visual roadmaps showing current vs. required skills for target roles
+- 🔄 **Personalized Learning Paths** — Curated courses and resources aligned with career goals
+- 💼 **Industry Benchmarking** — Compare skills against industry standards and job requirements
+- 📈 **Progress Tracking Dashboard** — Monitor skill development, certifications, and career milestones
+- 🤖 **AI Career Advisor** — Conversational guidance for career planning and decision-making
 
 **Architecture:**
 ```
-React Frontend
+Student / Professional Portal
     ↓
-Flask REST API (Python)
+React Frontend + Spring Boot REST API
     ↓
-Document Processing (PyPDF2, LangChain)
+Authentication & Authorization (JWT + Spring Security)
     ↓
-Embedding Generation (Sentence Transformers)
+Service Layer (Assessment engine, Recommendation system, Learning pathways)
     ↓
-Vector DB (FAISS) ← Search queries
+Repository Layer (Hibernate ORM with Criteria API)
     ↓
-LLM Integration (OpenAI / Gemini)
+MySQL 8.0 — Users, Assessments, Skills, Career Paths, Learning Resources
 ```
 
 </details>
 
-| 📦 LOC | 🗄️ Storage | 🔗 APIs | 🧪 Coverage | 🤖 ML Models | 📦 Deploy |
-|:------:|:----------:|:-------:|:-----------:|:----------:|:---------:|
-| 2,200+ | FAISS | 8+ | 40%+ | Transformers | Docker Ready |
+| 📦 LOC | 🗄️ DB Tables | 🔗 APIs | 🧪 Coverage | 🤖 AI Features | 🚀 Deploy |
+|:------:|:------------:|:-------:|:-----------:|:--------------:|:---------:|
+| 4,200+ | 10 | 18+ | 65%+ | Recommendations · NLP | Docker Ready |
 
-`Python 3.10` `Flask` `React` `FAISS` `LangChain` `Sentence Transformers` `Docker`
+`Java 17` `Spring Boot 2.7` `Spring Security` `React` `MySQL 8.0` `JWT` `Docker` `Maven`
 
 ---
 
@@ -457,8 +458,8 @@ MatchmakingScorer     →  Multi-factor farmer-buyer ranking (AgriConnect)
 | 🌾 AgriConnect | 7,800+ | 18+ | 35+ | 60+ | ✅ Render Live |
 | 🎓 EventSphere | 3,500+ | 6 | 15+ | 25+ | ✅ Docker Ready |
 | 💰 Smart Expense Manager | 2,800+ | 5 | 12+ | 20+ | ✅ Docker Ready |
-| 🧠 AI Research Assistant | 2,200+ | - | 8+ | 15+ | ✅ Docker Ready |
-| **Total** | **31,000+** | **49+** | **115+** | **200+** | |
+| 🎯 CareerCompass | 4,200+ | 10 | 18+ | 30+ | ✅ Docker Ready |
+| **Total** | **33,000+** | **59+** | **125+** | **215+** | |
 
 </div>
 
@@ -471,7 +472,7 @@ MatchmakingScorer     →  Multi-factor farmer-buyer ranking (AgriConnect)
 | 🎖️ Achievement | 📌 Detail |
 |:---------------|:---------|
 | 🏥 **Flagship App Live** | SmartClinic deployed on Railway — real URL, real traffic |
-| 📦 **31,000+ LOC Written** | Across 6 fully deployed full-stack Java applications |
+| 📦 **33,000+ LOC Written** | Across 6 fully deployed full-stack Java applications |
 | 🧩 **150+ DSA Problems** | Solved across LeetCode and Codeforces combined |
 | ⚡ **Codeforces Rating 1118** | Reached Pupil rank through competitive programming |
 | 🐳 **Docker Expert** | Multi-stage builds, Compose stacks, health checks in production |
